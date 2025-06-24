@@ -28,13 +28,9 @@ A comprehensive web-based E-learning platform template built with HTML, CSS (Boo
 
 ## How to Use
 
-1. Clone the repository:
-```bash
-git clone https://github.com/sanjaysam410/Quiz_application.git
-```
-2. Open `index.html` in your web browser to view the homepage.
-3. Navigate to other pages (courses, about, contact, etc.) using the menu.
-4. Explore course details, instructor bios, and testimonials.
+1. Open `index.html` in your web browser to view the homepage.
+2. Navigate to other pages (courses, about, contact, etc.) using the menu.
+3. Explore course details, instructor bios, and testimonials.
 
 ## Project Structure
 
@@ -63,7 +59,10 @@ E-learning/
 
 ## How to Run Locally
 
-1. Download or clone the repository.
+1. 1. Clone the repository:
+```bash
+git clone https://github.com/sanjaysam410/E-learning.git
+```
 2. Open `index.html` in your browser.
 
 ## License
@@ -79,7 +78,7 @@ This project is licensed under the MIT License.
 
 Your Name - SANJAY SAMALA (sanjaysamala4100@gmail.com)
 
-Project Link: https://github.com/sanjaysam410/Quiz_application
+Project Link: https://github.com/sanjaysam410/E-learning.git
 
 OUTPUT ::
 <img width="1624" alt="Screenshot 2025-06-24 at 11 12 34 PM" src="https://github.com/user-attachments/assets/49816992-252e-48e8-ac28-a006009cbfb2" />
